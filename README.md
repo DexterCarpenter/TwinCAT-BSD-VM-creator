@@ -1,5 +1,5 @@
 # TwinCAT-BSD-VM-creator
-the script creates VirtualBox Virtual Machine from Twincat BSD image provided by [Beckhoff Automation](https://www.beckhoff.com/en-en/products/ipc/software-and-tools/operating-systems/c9900-s60x-cxxxxx-0185.html)
+the script creates VirtualBox Virtual Machine from Twincat BSD image provided by [Beckhoff Automation](https://www.beckhoff.com/en-us/products/ipc/software-and-tools/operating-systems/c9900-s6xx-cxxxxx-0185.html)
 
 ## Using the batch file
 
