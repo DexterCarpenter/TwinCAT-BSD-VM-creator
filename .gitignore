@@ -1,0 +1,4 @@
+*.iso
+*/Logs
+*/Snapshots
+/TcBSD-x64-14-179792
